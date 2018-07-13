@@ -1,0 +1,29 @@
+[
+	{
+		"id": "1",
+		"categoryId": "1",
+		"name": "DARK SEAT",
+		"categoryName": "CHAIRS",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ultricies lorem odio, at laoreet tellus sodales in. ",
+    "price": 65,
+		"image": "/uploads/dark_chair.jpg"
+	},
+	{
+		"id": "2",
+		"categoryId": "1",
+		"name": "RED SEAT",
+		"categoryName": "CHAIRS",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ultricies lorem odio, at laoreet tellus sodales in. ",
+    "price": 72,
+		"image": "/uploads/red_chair.jpg"
+	},
+	{
+		"id": "3",
+		"categoryId": "1",
+		"name": "BLUE SEAT",
+		"categoryName": "CHAIRS",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ultricies lorem odio, at laoreet tellus sodales in. ",
+    "price": 74,
+		"image": "/uploads/blue_chair.jpg"
+	}
+]
